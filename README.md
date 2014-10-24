@@ -263,4 +263,4 @@ Congratulations! Your web app should now be up and running on Heroku. Open it in
     :::term  
     $ heroku open
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
